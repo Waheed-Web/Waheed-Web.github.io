@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://Waheed-Web.github.io/static/css/main.4af31ff0.css",
+    "main.js": "https://Waheed-Web.github.io/static/js/main.7c2e1787.js",
+    "index.html": "https://Waheed-Web.github.io/index.html",
+    "main.4af31ff0.css.map": "https://Waheed-Web.github.io/static/css/main.4af31ff0.css.map",
+    "main.7c2e1787.js.map": "https://Waheed-Web.github.io/static/js/main.7c2e1787.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4af31ff0.css",
+    "static/js/main.7c2e1787.js"
+  ]
+}

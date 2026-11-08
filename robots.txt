@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://waheed-web.github.io/sitemap.xml
